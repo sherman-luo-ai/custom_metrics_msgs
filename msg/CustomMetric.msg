@@ -1,0 +1,4 @@
+string metric_name
+float64 value_double
+builtin_interfaces/Time timestamp
+string value_string
